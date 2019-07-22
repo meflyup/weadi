@@ -7,16 +7,16 @@
 	"content": ""
 },
 {
-	"uri": "/en/",
-	"title": "Documentation for Hugo Learn Theme",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "/en/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "/en/",
+	"title": "_index",
+	"tags": [],
+	"description": "",
+	"content": "感谢大家选修web教育应用设计与开发。\n"
 }]

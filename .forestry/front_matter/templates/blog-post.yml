@@ -17,4 +17,4 @@ fields:
       format: markdown
   label: blog
 pages:
-- content/欢迎.md
+- content/_index.md

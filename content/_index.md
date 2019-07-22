@@ -1,7 +1,6 @@
 ---
 title: _index
 blog: ''
-draft: true
 
 ---
 感谢大家选修web教育应用设计与开发。 

@@ -1,18 +1,128 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>/en/sitemap.xml</loc>
-		
-	   	<lastmod>2018-12-29T11:02:05+06:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2018-12-29T11:02:05+06:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/installation/requirments/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/installation/install/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/installation/configuration/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/billing-pricing/ownership/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/installation/customization/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/billing-pricing/bill/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/installation/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/features/linux/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/features/mac/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/billing-pricing/manage/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/billing-pricing/payment/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/features/routing/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/features/ubuntu/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/billing-pricing/profile/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/features/windows/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/billing-pricing/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/features/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2018-12-27T09:10:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/elements/</loc>
+    <lastmod>2018-12-27T09:10:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/</loc>
+    <lastmod>2018-12-27T09:10:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/dart_basic/</loc>
+  </url>
+  
+  <url>
+    <loc>/dart_basic/basic/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

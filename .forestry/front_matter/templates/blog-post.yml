@@ -17,5 +17,6 @@ fields:
       format: markdown
   label: blog
 pages:
+- content/dart_basic/dart-程序基础例子._index
 - content/dart-程序基础例子.md
 - content/_index.md

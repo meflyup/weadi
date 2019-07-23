@@ -5,6 +5,36 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/installation
+  label: installation
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/features
+  label: features
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/faq
+  label: faq
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/elements
+  label: elements
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/contact
+  label: contact
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/billing-pricing
+  label: billing-pricing
+  create: all
+  match: "**/*"
+- type: directory
   path: content
   label: 文档
   create: all

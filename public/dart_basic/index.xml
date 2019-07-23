@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dart on Doc List</title>
+    <link>/dart_basic/</link>
+    <description>Recent content in Dart on Doc List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>The Hugo Documents are copyright © gethugothemes 2018.</copyright>
+    
+	<atom:link href="/dart_basic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Language samples</title>
+      <link>/dart_basic/basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dart_basic/basic/</guid>
+      <description>This collection is not exhaustive&amp;mdash;it&amp;rsquo;s just a brief
+introduction to the language for people who like to learn by example.
+You might also want to check out the language and library tours.
+Language tour  A comprehensive tour, with examples, of the Dart language. Most of the read more links in this page point to the language tour.  &amp;lt;h3&amp;gt;&amp;lt;a href=&amp;quot;/guides/libraries/library-tour&amp;quot;&amp;gt;Library tour&amp;lt;/a&amp;gt;&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt; An example-based introduction to the Dart core libraries.</description>
+    </item>
+    
+  </channel>
+</rss>

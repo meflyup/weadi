@@ -158,5 +158,17 @@ A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet l
 A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
     </item>
     
+    <item>
+      <title>Language samples</title>
+      <link>/dart_basic/basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dart_basic/basic/</guid>
+      <description>This collection is not exhaustive&amp;mdash;it&amp;rsquo;s just a brief
+introduction to the language for people who like to learn by example.
+You might also want to check out the language and library tours.
+Language tour  A comprehensive tour, with examples, of the Dart language. Most of the read more links in this page point to the language tour.  &amp;lt;h3&amp;gt;&amp;lt;a href=&amp;quot;/guides/libraries/library-tour&amp;quot;&amp;gt;Library tour&amp;lt;/a&amp;gt;&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt; An example-based introduction to the Dart core libraries.</description>
+    </item>
+    
   </channel>
 </rss>

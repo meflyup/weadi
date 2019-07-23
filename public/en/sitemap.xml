@@ -333,6 +333,14 @@
   </url>
   
   <url>
+    <loc>/dart_basic/</loc>
+  </url>
+  
+  <url>
+    <loc>/dart_basic/basic/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <priority>0</priority>
     <xhtml:link

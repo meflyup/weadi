@@ -113,7 +113,7 @@ whiteColor = "#ffffff"
 
   # chinese Language
   [Languages.zh]
-  languageName = "Chinese"
+  languageName = "Zh"
   weight = 1
   languageCode = "zh-cn"
   title = "Doc List"
